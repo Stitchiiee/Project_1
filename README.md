@@ -1,2 +1,2 @@
 # Project_1
-game project for me and the boys. 
+I want to make a game with my friends :^}
