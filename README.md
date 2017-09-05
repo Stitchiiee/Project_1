@@ -1,5 +1,5 @@
 # Platformer Game
-///What we have so far
+//What we have so far
 
 A box and walls :V
 
@@ -12,7 +12,7 @@ A box and walls :V
 
 
 
-///What we need 
+//What we need 
 
 1. Player Sprite
 2. Background Sprite 
