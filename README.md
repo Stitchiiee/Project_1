@@ -1,25 +1,22 @@
-# Platformer Game
-//What we have so far
+# Code
 
-A box and walls :V
+///Player Code 
 
+CREATE EVENT
 
+///Initialize Variables 
+grav = 0.2;
 
+//Horisontal speed 
+hsp = 0; 
 
+//Vertical speed 
+vsp = 0; 
+jumpspeed = 7; 
 
+// How fast we move left & right
+movespeed = 4; 
 
+STEP EVENT
 
-
-
-
-//What we need 
-
-1. Player Sprite
-2. Background Sprite 
-3. Movement code
-4. Camera tracking code 
-5. A.I. code 
-6. Enemy Sprites
-7. Music (not top priority right now)
-8. Animations
-  >>>Thats all for now<<<
+///Get the player's input
