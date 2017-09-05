@@ -21,4 +21,5 @@ A box and walls :V
 5. A.I. code 
 6. Enemy Sprites
 7. Music (not top priority right now)
+8. Animations
   >>>Thats all for now<<<
