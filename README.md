@@ -19,6 +19,6 @@ A box and walls :V
 3. Movement code
 4. Camera tracking code 
 5. A.I. code 
-6. Enemey Sprites
+6. Enemy Sprites
 7. Music (not top priority right now)
   >>>Thats all for now<<<
